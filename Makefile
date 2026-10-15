@@ -1,4 +1,4 @@
-.PHONY: all test lint
+.PHONY: all test lint vulncheck
 
 all: test lint
 
@@ -7,3 +7,7 @@ test:
 
 lint:
 	golangci-lint run ./...
+
+## vulncheck: run govulncheck on all packages
+vulncheck:
+	go run golang.org/x/vuln/cmd/govulncheck@latest ./...
