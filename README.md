@@ -49,4 +49,4 @@ func main() {
 
 ## License
 
-MIT
+[MIT](LICENSE) © [rlsvr](https://github.com/rlsvr)
