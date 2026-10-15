@@ -3,6 +3,7 @@
 [![Go Reference](https://pkg.go.dev/badge/github.com/rlsvr/blazesse-echo.svg)](https://pkg.go.dev/github.com/rlsvr/blazesse-echo)
 [![CI](https://github.com/rlsvr/blazesse-echo/actions/workflows/ci.yml/badge.svg)](https://github.com/rlsvr/blazesse-echo/actions/workflows/ci.yml)
 [![golangci-lint](https://img.shields.io/badge/golangci--lint-passing-brightgreen?logo=go)](https://github.com/rlsvr/blazesse-echo/actions/workflows/ci.yml)
+[![govulncheck](https://img.shields.io/badge/govulncheck-passing-brightgreen?logo=go)](https://github.com/rlsvr/blazesse-echo/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 Echo web framework adapter for [`blazesse`](https://github.com/rlsvr/blazesse), the ultra-high-throughput, zero-allocation Server-Sent Events (SSE) toolkit for Go.
