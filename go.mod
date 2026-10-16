@@ -4,7 +4,7 @@ go 1.26.1
 
 require (
 	github.com/labstack/echo/v4 v4.16.0
-	github.com/rlsvr/blazesse v0.0.0-20261015141055-b4ca9f009a90
+	github.com/rlsvr/blazesse v0.0.0-20261016040715-37d03784b8f2
 )
 
 require (

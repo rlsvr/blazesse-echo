@@ -10,8 +10,8 @@ github.com/mattn/go-isatty v0.0.22 h1:j8l17JJ9i6VGPUFUYoTUKPSgKe/83EYU2zBC7YNKMw
 github.com/mattn/go-isatty v0.0.22/go.mod h1:ZXfXG4SQHsB/w3ZeOYbR0PrPwLy+n6xiMrJlRFqopa4=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
-github.com/rlsvr/blazesse v0.0.0-20261015141055-b4ca9f009a90 h1:0IUJSwrXwKRwdiic7OvmcHyGvq9ZXaxh3tQ4UckPqi8=
-github.com/rlsvr/blazesse v0.0.0-20261015141055-b4ca9f009a90/go.mod h1:MuSTFYadBkSwK3s/6G3VAGaf4QqCwC1NWSHtpm2x0kM=
+github.com/rlsvr/blazesse v0.0.0-20261016040715-37d03784b8f2 h1:d6kWMmPymzJfrbQUv4A7oryrlcP6TKZMNz+Ymh0G8ms=
+github.com/rlsvr/blazesse v0.0.0-20261016040715-37d03784b8f2/go.mod h1:MuSTFYadBkSwK3s/6G3VAGaf4QqCwC1NWSHtpm2x0kM=
 github.com/rlsvr/inas v0.0.0-20261015133457-2adcd58f8062 h1:7gpbRhhfNTStITP420PHzoBTBnf2+JtNjWhQA4HtCO4=
 github.com/rlsvr/inas v0.0.0-20261015133457-2adcd58f8062/go.mod h1:AWDKbq2YqfICn7e5xDcYkZDXjdXowzDcR5XNSEnem3w=
 github.com/stretchr/testify v1.11.1 h1:7s2iGBzp5EwR7/aIZr8ao5+dra3wiQyKjjFuvgVKu7U=
